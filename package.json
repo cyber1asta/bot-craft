@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-bot",
+  "version": "1.0.0",
+  "description": "A Minecraft server bot using mineflayer",
+  "main": "bot.js",
+  "dependencies": {
+    "minecraft-launcher-core": "^3.16.3",
+    "minecraft-protocol": "^0.15.0",
+    "mineflayer": "^4.37.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
